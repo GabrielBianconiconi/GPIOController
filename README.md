@@ -1,6 +1,6 @@
 # Controle Snes no GPIO
 Esse projeto consiste na criação de um controle de SNES utilizando o GPIO do Raspberry Pi 3B+ para ser usado no RetroPie. O controle será configurado através do software GPIONext, que permite mapear os pinos GPIO para funcionarem como botões do controle. O projeto utiliza botões físicos para representar os comandos do controle de SNES, como direcionais e botões de ação, conectados diretamente aos pinos GPIO do Raspberry Pi. Dessa forma, o sistema reconhece as entradas do controle para jogar emuladores de Super Nintendo no RetroPie.
-
+-
 1. Pré-requisitos
 -Ser compacto
 -12 botões para servirem de tecla
@@ -28,11 +28,16 @@ Esse projeto consiste na criação de um controle de SNES utilizando o GPIO do R
 
 6. Esquema Eletrico
 
- ![esquema eletrico](https://github.com/BRUNO-FEVE/beat-rush/assets/75047754/db509588-fb7c-45a6-b040-5934d5d8178a)
+ ![esquema eletrico](https://github.com/GabrielBianconiconi/GPIOController/blob/main/esquemaeletrico.jpeg)
 
 
+7. Diagrama de Blocos
+
+![Diagram de Blocos](https://github.com/GabrielBianconiconi/GPIOController/blob/main/diagramadeblocos.png)
+   
 8. Video de Funcionanmento
-- 
+
+![VIDEO](https://github.com/GabrielBianconiconi/GPIOController/blob/main/video.mp4)
    
 
 Autores:
