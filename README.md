@@ -37,7 +37,7 @@ Esse projeto consiste na criação de um controle de SNES utilizando o GPIO do R
    
 8. Video de Funcionanmento
 
-![VIDEO](https://github.com/GabrielBianconiconi/GPIOController/blob/main/video.mp4)
+(https://drive.google.com/file/d/1p9Pk_X8CMQ-YSrN4nm3EiawDigga_AHJ/view?usp=sharing)
    
 
 Autores:
