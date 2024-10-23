@@ -24,7 +24,7 @@ Esse projeto consiste na criação de um controle de SNES utilizando o GPIO do R
 - Raspberry PI 3b+ - 379,90 R$
 - Componentes adicionais: Solda, fios
 
-**Total: R$ 44**
+**Total: R$ 389,24**
 
 6. Esquema Eletrico
 
