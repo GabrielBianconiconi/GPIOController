@@ -9,7 +9,7 @@ Esse projeto consiste na criação de um controle de SNES utilizando o GPIO do R
 2. Construido com
 -Raspberry PI 3b+
 -RetroPI
--GPIONext
+-GPIONext ( https://github.com/mholgatem/GPIOnext )
 
 3. Análise de custo
 -12 botões
